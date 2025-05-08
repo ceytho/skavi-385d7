@@ -6,5 +6,5 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-[params]
-  favicon: "/skvfavicon.ico"
+assets:
+  favicon: "/assets/favicon.ico"
