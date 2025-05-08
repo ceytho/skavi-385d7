@@ -1,4 +1,10 @@
-baseURL: "http://hugo-quickstart-template.netlify.com"
-languageCode: "en-us"
-title: "Netlify + Hugo Quickstart"
+baseURL: "https://skavi.fr"
+languageCode: "fr-fr"
+title: "Skavi"
 theme: "netlify-basic"
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+canonifyURLs: true
+assets:
+  favicon: "/favicon.ico"
